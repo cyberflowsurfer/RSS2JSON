@@ -1,0 +1,2227 @@
+{
+    "items": [
+        {
+            "title": "Camino web interface, the open digital mining cadastre",
+            "id": "e613f32778e7",
+            "description": "Camino UI .Web interface of Camino , the digital mining cadastre.\n\n#vuejs #vue #javascript #vuejs",
+            "url": "https://morioh.com/p/e613f32778e7",
+            "link": "https://morioh.com/p/e613f32778e7",
+            "author": "Asmait Ermias",
+            "created": 1595516040000,
+            "category": [
+                "vuejs",
+                "vue",
+                "javascript",
+                "vue-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/OzuUJ60.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Seaborn Python Tutorial | Data Visualization Using Python Seaborn",
+            "id": "be066af486a6",
+            "description": "Seaborn Python Tutorial will help you to implement all the different plots with Seaborn. Data Visualization is an essential component of a data scientist’s skill set and seaborn is one of the most popular packages in Python to implement data visualization. With the help of seaborn, you can create beautiful bar-plots, box-plots, scatter-plots, histograms and so much more.\n\n#python #seaborn #machinelearning #developer",
+            "url": "https://morioh.com/p/be066af486a6",
+            "link": "https://morioh.com/p/be066af486a6",
+            "author": "Anil  Sakhiya",
+            "created": 1595515200000,
+            "category": [
+                "python",
+                "seaborn",
+                "machine-learning",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/6VngZzL34X0/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Vue 3 Playground packed with all the new features",
+            "id": "9b80b0fb94e9",
+            "description": "Vue 3 Playground stands as a learning project for those who want to get familiar with the new features of Vue 3.The project aims to include all the new features. If you find something missing please create an issue/PR.\n\n#vuejs #javascript #vuejs #vue",
+            "url": "https://morioh.com/p/9b80b0fb94e9",
+            "link": "https://morioh.com/p/9b80b0fb94e9",
+            "author": "Liya Gebre",
+            "created": 1595512440000,
+            "category": [
+                "vuejs",
+                "javascript",
+                "vue-js",
+                "vue"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/4l5rrWJ.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Creating an HTML Table with Fixed Headers in 2 steps",
+            "id": "2d280a0ebdbe",
+            "description": "It is easy to develop a pure HTML table with fixed headers. We are going to use position: sticky CSS property to allow headers of the table to give an illusion of fixed headers (Creating an HTML table with fixed headers in 2 steps)\n\n#css #react #html #javascript",
+            "url": "https://morioh.com/p/2d280a0ebdbe",
+            "link": "https://morioh.com/p/2d280a0ebdbe",
+            "author": "html html",
+            "created": 1595512380000,
+            "category": [
+                "css",
+                "react",
+                "html",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/71325dca.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "jQuery toggle switch input Component",
+            "id": "bc7474649f27",
+            "description": "jquery-input-switch jQuery toggle switch input component\n\n#javascript #jquery",
+            "url": "https://morioh.com/p/bc7474649f27",
+            "link": "https://morioh.com/p/bc7474649f27",
+            "author": "Louie Perry",
+            "created": 1595510880000,
+            "category": [
+                "javascript",
+                "jquery"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/nrdqfxx.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Publish a Deno module in 3 steps",
+            "id": "54b8f2a78c55",
+            "description": "One of the core features of Deno is that it doesn’t rely on a centralized package server like Node.js did with npm. Anyone can publish a module to their own server and it’s very simply to use them, thanks to Deno resolving URLs for modules. Let’s see how to create, publish, and use our first Deno module.\n\n#javascript #deno #typescript #vscode",
+            "url": "https://morioh.com/p/54b8f2a78c55",
+            "link": "https://morioh.com/p/54b8f2a78c55",
+            "author": "Nick  FrankCold",
+            "created": 1595510520000,
+            "category": [
+                "javascript",
+                "deno",
+                "typescript",
+                "vs code"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i1.wp.com/startfunction.com/wp-content/uploads/2020/05/publish-deno-modules.png",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Rocket Downrange: WebSite built on Vue.js, Axios, Bootstrap 4 and Netlify",
+            "id": "549620727119",
+            "description": "Rocket Downrange is a site I am developing to showcase the advancements of humanity in regards to the exploration of outer space. While the core Vue.JS is my own writing (please be patient as I continue to learn), all data you see on the site is returned from various API's. The first three API's I am using belong to SpaceX (USA), Rocket Lab (USA) and NASA (USA) and are provided for free or free with a registered key. Thus, the site should continue to be a fun and dynamic way of keeping updated on the industry at large.\n\n#vuejs #vue #javascript #vuejs",
+            "url": "https://morioh.com/p/549620727119",
+            "link": "https://morioh.com/p/549620727119",
+            "author": "Vue.js Example",
+            "created": 1595508840000,
+            "category": [
+                "vuejs",
+                "vue",
+                "javascript",
+                "vue-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/vVIxowi.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "An extremely fast and lightweight test runner for Node.js and the browser",
+            "id": "a04bf4124b78",
+            "description": "uvu is an extremely fast and lightweight test runner for Node.js and the browser Ultimate Velocity, Unleashed\n\n#nodejs #javascript",
+            "url": "https://morioh.com/p/a04bf4124b78",
+            "link": "https://morioh.com/p/a04bf4124b78",
+            "author": "Biniam Abdullah",
+            "created": 1595507280000,
+            "category": [
+                "nodejs",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/7E8bUd7.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Simple REST API using Deno and Oak",
+            "id": "01f754a7da99",
+            "description": "Deno REST API  This is a REST API using Deno, Oak and PostgreSQL\n\n#deno #nodejs #javascript #nodejs",
+            "url": "https://morioh.com/p/01f754a7da99",
+            "link": "https://morioh.com/p/01f754a7da99",
+            "author": "Alex Lambert",
+            "created": 1595505240000,
+            "category": [
+                "deno",
+                "nodejs",
+                "javascript",
+                "node-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/oAGZmE9.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Lightbox-like Image viewer for React",
+            "id": "16828b9fafd2",
+            "description": "Lightbox image image viewer for react with zoom, rotate and move feature with single or multi image. Includes basic touch support.\n\n#reactjs #javascript #react",
+            "url": "https://morioh.com/p/16828b9fafd2",
+            "link": "https://morioh.com/p/16828b9fafd2",
+            "author": "Cristian Vasta",
+            "created": 1595503680000,
+            "category": [
+                "reactjs",
+                "javascript",
+                "react"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/6xf0mYY.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Fake News Detection using Machine Learning | Natural Language Processing",
+            "id": "3e7be6857f44",
+            "description": "There are a lot of news articles, where the news is false or cooked up. With so many advances in Natural Language Processing and Machine Learning, we can actually build an Machine Learning model which is able to detect if a piece of the news article is genuine or fake. Here we will be using artificial neural network models to verify the genuinity of the article.\n\n#machinelearning #artificialintelligence #developer",
+            "url": "https://morioh.com/p/3e7be6857f44",
+            "link": "https://morioh.com/p/3e7be6857f44",
+            "author": "Anil  Sakhiya",
+            "created": 1595501940000,
+            "category": [
+                "machine-learning",
+                "artificial-intelligence",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/tdFMIO5lfgA/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "A progressive http server for Deno",
+            "id": "887ef8ad2cf0",
+            "description": "A progressive http server for Deno .Servest is a http module suite for Deno. It is composed of three major APIs of HTTP protocol:\n\n#deno #nodejs #javascript",
+            "url": "https://morioh.com/p/887ef8ad2cf0",
+            "link": "https://morioh.com/p/887ef8ad2cf0",
+            "author": "Andrew French",
+            "created": 1595501640000,
+            "category": [
+                "deno",
+                "nodejs",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/fUE7DM8.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Google News js is an npm package, that provides easy APIs to scrap Google News",
+            "id": "1c83e6b61cd6",
+            "description": "Google News JS is an open-source package for scraping Google News data. It provides easy API access to main Google News features.\n\n#javascript",
+            "url": "https://morioh.com/p/1c83e6b61cd6",
+            "link": "https://morioh.com/p/1c83e6b61cd6",
+            "author": "Joel Hawkins",
+            "created": 1595500080000,
+            "category": "javascript",
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/Ucakr7a.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Alosaur - Deno web framework",
+            "id": "b6fb8256e26e",
+            "description": "Alosaur Area - these are the modules of your application. Controller - are responsible for controlling the flow of the application execution.Middleware - provide a convenient mechanism for filtering HTTP requests entering your application.\n\n#deno #nodejs #javascript",
+            "url": "https://morioh.com/p/b6fb8256e26e",
+            "link": "https://morioh.com/p/b6fb8256e26e",
+            "author": "Mohammad Hilton",
+            "created": 1595498040000,
+            "category": [
+                "deno",
+                "nodejs",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/J1RF5BO.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Easily wait for an element to CSS transition using native vanilla JavaScript",
+            "id": "b7a04514a637",
+            "description": "Let's say you have the problem (that many of us have) where you need to wait for the completion of your element's CSS transition before your code continues. You can use this library and call a waitForElementTransition method to wait until the element finishes its css transition before doing other things in your javascript code.\n\n#javascript #css",
+            "url": "https://morioh.com/p/b7a04514a637",
+            "link": "https://morioh.com/p/b7a04514a637",
+            "author": "JavaScript Dev",
+            "created": 1595496480000,
+            "category": [
+                "javascript",
+                "css"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/GVKYzYY.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Deep Learning, Neural Networks and The Future of AI",
+            "id": "583d8913835e",
+            "description": "Deep Learning, Neural Networks and The Future of AI: In conversation with head of TED Chris Anderson, LeCun discusses his current research into self-supervised machine learning, how he's trying to build machines that learn with common sense (like humans) and his hopes for the next conceptual breakthrough in AI.\n\n#deeplearning #artificialintelligence #developer",
+            "url": "https://morioh.com/p/583d8913835e",
+            "link": "https://morioh.com/p/583d8913835e",
+            "author": "Zak Dyer",
+            "created": 1595494818000,
+            "category": [
+                "deep-learning",
+                "artificial-intelligence",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/43cf1b5b-a587-4d82-b8c3-b2a8766436a4/YannLeCun_2020S-embed.jpg?c=1050%2C550&w=1050",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Monitor any changes in your Deno application and automatically restart.",
+            "id": "19fc2106a1de",
+            "description": "denon is the deno replacement for nodemon providing a feature packed, highly configurable and easy to use experience.denon does not require any additional changes to your code or method of development. denon is a replacement wrapper for deno. To use denon,replace the word deno on the command line when executing your script.\n\n#deno #nodejs #javascript #nodejs",
+            "url": "https://morioh.com/p/19fc2106a1de",
+            "link": "https://morioh.com/p/19fc2106a1de",
+            "author": "Tewolde Luwam",
+            "created": 1595494440000,
+            "category": [
+                "deno",
+                "nodejs",
+                "javascript",
+                "node-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/DFi00cL.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Delete Docker Images Explained with Examples",
+            "id": "4b08b4291bc6",
+            "description": "In this Docker remove image tutorial, you'll learn how to delete Docker Images, and we use a fictional company to explain it with some easy-to-use examples. It's important to point out that you shouldn't use Docker to keep a history of your old images. For a developer environment that's fine, and you can even automate the image clean up workload if you have to deal with a lot of them.\n\n#docker #devops",
+            "url": "https://morioh.com/p/4b08b4291bc6",
+            "link": "https://morioh.com/p/4b08b4291bc6",
+            "author": "Garry Taylor",
+            "created": 1595494222000,
+            "category": [
+                "docker",
+                "devops"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/f0a93144.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How Git Bisect Makes Debugging Easier",
+            "id": "ea923e7ef229",
+            "description": "Git bisect is a fantastic tool that can help make debugging a breeze. I will showcase how git bisect can easily point out the where your bugs lie. Delta debugging is the process of completing many debugging steps and in each one your goal is to eliminate half the \"problem\". You can think of it as the binary search of debugging.\n\n#git #developer",
+            "url": "https://morioh.com/p/ea923e7ef229",
+            "link": "https://morioh.com/p/ea923e7ef229",
+            "author": "Daisy Rees",
+            "created": 1595494015000,
+            "category": [
+                "git",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/5d6e5a04.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Use Texthero to Prep a Text-based Dataset for Your NLP Project",
+            "id": "14733356d677",
+            "description": "What is Texthero? Texthero is a simple Python toolkit that helps you work with a text-based dataset. Learn how to use Texthero to prep a Text-based Dataset for Your NLP Project. Natural Language Processing (NLP) is one of the most important fields of study and research in today’s world. It has many applications in the business sector such as chatbots, sentiment analysis, and document classification.\n\n#python #texthero #machinelearning #developer",
+            "url": "https://morioh.com/p/14733356d677",
+            "link": "https://morioh.com/p/14733356d677",
+            "author": "Callum Slater",
+            "created": 1595493622000,
+            "category": [
+                "python",
+                "texthero",
+                "machine-learning",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://www.freecodecamp.org/news/content/images/2020/07/priscilla-du-preez-I79wWVFyhEQ-unsplash.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Minimal & vanilla JS only cookie consent banner with no dependencies",
+            "id": "e9809ac79a94",
+            "description": "ez-consent is a tiny JavaScript library that creates a non-intrusive cookie ? consent banner or notice box to inform the visitors how your website uses cookies.\n\n#javascript #programming",
+            "url": "https://morioh.com/p/e9809ac79a94",
+            "link": "https://morioh.com/p/e9809ac79a94",
+            "author": "Ethan Hughes",
+            "created": 1595492880000,
+            "category": [
+                "javascript",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/RWnUQX5.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Build a Todo App with React, TypeScript, NodeJS and MongoDB",
+            "id": "507b5720a12e",
+            "description": "We will be using TypeScript on both sides (server and client) to build a Todo App from scratch with React, NodeJS, Express, and MongoDB. API with NodeJS, Express, MongoDB and TypeScript. Client-side with React and TypeScript\n\n#typescript #react #node #mongodb #developer",
+            "url": "https://morioh.com/p/507b5720a12e",
+            "link": "https://morioh.com/p/507b5720a12e",
+            "author": "Connor Mills",
+            "created": 1595492567000,
+            "category": [
+                "typescript",
+                "react",
+                "node",
+                "mongodb",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/5bd1ef69.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Create and Publish a Vue Component Library",
+            "id": "98aae1d7b7e5",
+            "description": "Learn how to create and publish a Vue Component Library. Component libraries are all the rage these days. To create this Vue component library, we're going to use the vue-sfc-rollup npm package. Publishing to NPM. Now that we're ready to publish the library to NPM, we need to go through the build process for it to be packaged up and ready to go. \n\n#vue #npm #javascript #developer",
+            "url": "https://morioh.com/p/98aae1d7b7e5",
+            "link": "https://morioh.com/p/98aae1d7b7e5",
+            "author": "Benjamin Wilkinson",
+            "created": 1595492025000,
+            "category": [
+                "vue",
+                "npm",
+                "javascript",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/4cb752dc.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Modern CSS Techniques To Improve Legibility",
+            "id": "7d495e0acf0c",
+            "description": "We cover how we can improve websites legibility using some modern CSS techniques, great new technologies like variable fonts and putting into practise what we learned from doing scientific researches.\n\n#css #webdevelopment #developer",
+            "url": "https://morioh.com/p/7d495e0acf0c",
+            "link": "https://morioh.com/p/7d495e0acf0c",
+            "author": "Jonathan Lambert",
+            "created": 1595491853000,
+            "category": [
+                "css",
+                "web-development",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae5697ae-e39f-4757-a414-0df590407157/css-techniques-legibility.png",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "What’s new in react-query v2",
+            "id": "29cf0f08d7a9",
+            "description": "What’s new in react-query v2? The release of react-query v2 brings about some changes to the API, overall performance improvements, new query status Booleans, and more.\n\n#react #javascript #developer",
+            "url": "https://morioh.com/p/29cf0f08d7a9",
+            "link": "https://morioh.com/p/29cf0f08d7a9",
+            "author": "Alex O'Sullivan",
+            "created": 1595491587000,
+            "category": [
+                "react",
+                "javascript",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2020/07/whats-new-react-query-v2.png?fit=730%2C487&ssl=1",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Emotion in React",
+            "id": "102f11aa3827",
+            "description": "Emotion is a high performance, flexible, and performant CSS-in-JS library. Emotion helps us to style our application in a faster way, with a decent and consistent CSS composition. In this post, we will learn more about Emotion, and see the features and advantages that it can bring to our applications.\n\n#react #css #javascript #developer",
+            "url": "https://morioh.com/p/102f11aa3827",
+            "link": "https://morioh.com/p/102f11aa3827",
+            "author": "Joseph  Norton",
+            "created": 1595491337000,
+            "category": [
+                "react",
+                "css",
+                "javascript",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/07/emotion.png?fit=730%2C412&ssl=1",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Functional User Interfaces with Moon.js",
+            "id": "74f1457c31ba",
+            "description": "Learn the basics of Moon.js: What is Moon.js, why it was created and what problems does it solve? Moon.js isa tiny new library based on pure functions, and put your knowledge to use by building a basic blogging app, which will use the JSONPlaceholder API.\n\n#moon #json #api #developer #webdevelopment",
+            "url": "https://morioh.com/p/74f1457c31ba",
+            "link": "https://morioh.com/p/74f1457c31ba",
+            "author": "Archie  Clayton",
+            "created": 1595491033000,
+            "category": [
+                "moon",
+                "json",
+                "api",
+                "developer",
+                "web-development"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2020/07/functional-user-interfaces-moon-js-nocdn.png?fit=730%2C487&ssl=1",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Fully Declarative React Lottie Player",
+            "id": "b4bacd08a636",
+            "description": "react-lottie-playe Fully declarative React Lottie player Inspired by several existing packages wrapping lottie-web for React, I created this package because I wanted something that just works and is simple to use.\n\n#react #reactjs #javascript",
+            "url": "https://morioh.com/p/b4bacd08a636",
+            "link": "https://morioh.com/p/b4bacd08a636",
+            "author": "Mark Mara",
+            "created": 1595490840000,
+            "category": [
+                "react",
+                "reactjs",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/yOhhh2c.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Python Packages: Five Real Python Favorites",
+            "id": "19b07fd4921a",
+            "description": "In this Python tutorial, several Real Python authors share Python packages we like to use as alternatives to modules in the standard library. You'll get to know a number of useful packages, including pudb, requests, parse, dateutil, and typer.\n\n#python #developer",
+            "url": "https://morioh.com/p/19b07fd4921a",
+            "link": "https://morioh.com/p/19b07fd4921a",
+            "author": "Noah Saunders",
+            "created": 1595490829000,
+            "category": [
+                "python",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://files.realpython.com/media/Packages-Roundtable_Watermarked.84822c05e353.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to build a Password Generator using JavaScript",
+            "id": "26b7b628989a",
+            "description": "Learn how to generate random passwords with JavaScript. We all know the importance of making use of strong passwords either in our applications, websites, or whatsoever. A strong password provides essential protection from financial fraud and identity theft. One of the most common ways that hackers break into computers, applications, websites, e.t.c is by guessing passwords.\n\n#javascript #developer #security",
+            "url": "https://morioh.com/p/26b7b628989a",
+            "link": "https://morioh.com/p/26b7b628989a",
+            "author": "Zara  Bryant",
+            "created": 1595490602000,
+            "category": [
+                "javascript",
+                "developer",
+                "security"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/EUg3Qpu6iPE/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Build a Portfolio Website & Deploy to AWS",
+            "id": "7acb01658ada",
+            "description": "Brads Intro, Dennis Intro, Flex + Grids Recap, Initial Setup, First Grid Areas, Navigation Bar, Intro Section, About Section, Portfolio/Blogs, Contact Form, Adding More Pages, Changing Themes, Hosting the Website\n\n#webdevelopment #aws #developer",
+            "url": "https://morioh.com/p/7acb01658ada",
+            "link": "https://morioh.com/p/7acb01658ada",
+            "author": "John David",
+            "created": 1595490228000,
+            "category": [
+                "web-development",
+                "aws",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/r_hYR53r61M/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Introduction to Docker | What is Docker | Getting Started With Docker Containers",
+            "id": "759c6feb55ef",
+            "description": "What is Docker? What are Containers? Why do we need Docker? Docker Engine, Docker Images, Docker Architecture. Learn how to install docker and then finally we will run some basic Docker commands that are necessary to know when working with Docker.\n\n#docker #deveops",
+            "url": "https://morioh.com/p/759c6feb55ef",
+            "link": "https://morioh.com/p/759c6feb55ef",
+            "author": "Anil  Sakhiya",
+            "created": 1595489587000,
+            "category": [
+                "docker",
+                "deveops"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/TwtY9QJY0QM/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Multipurpose Modal & Popup Window",
+            "id": "5faa0aae8559",
+            "description": "A javascript library to create and manage highly customizable modal windows and popup messages .A javascript library to create and manage highly customizable modal windows and popup messages.\n\n#javascript #css",
+            "url": "https://morioh.com/p/5faa0aae8559",
+            "link": "https://morioh.com/p/5faa0aae8559",
+            "author": "Peter Andrews",
+            "created": 1595489280000,
+            "category": [
+                "javascript",
+                "css"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/X1epgSi.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "College Algebra - Learn Algebra in This Full College Course",
+            "id": "66c4fa921a02",
+            "description": "Learn Algebra in this full college course. These concepts are often used in programming: Exponent Rules, Simplifying Radicals, Factoring, Rational Expressions, Solving Quadratic Equations, Rational Equations, Solving Radical Equations, Absolute Value Equations, ...\n\n#machinelearning #datascience #developer",
+            "url": "https://morioh.com/p/66c4fa921a02",
+            "link": "https://morioh.com/p/66c4fa921a02",
+            "author": "Code  Camp",
+            "created": 1595489185000,
+            "category": [
+                "machine-learning",
+                "data-science",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/jL2kh1bHL_I/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Embeddable unity game engine view for Flutter",
+            "id": "2c3ebe873635",
+            "description": "Flutter unity 3D widget for embedding unity in flutter. Now you can make awesome gamified features of your app in Unity and get it rendered in a Flutter app both in fullscreen and embeddable mode. Works great on Android and iOS. There are now two unity app examples in the unity folder, one with the default scene and another based on Unity AR foundation samples.\n\n#flutter #unity #game #dart #mobileapps",
+            "url": "https://morioh.com/p/2c3ebe873635",
+            "link": "https://morioh.com/p/2c3ebe873635",
+            "author": "Sarama Demsas",
+            "created": 1595487260000,
+            "category": [
+                "flutter",
+                "unity",
+                "game",
+                "dart",
+                "mobile-apps"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/4d7szAV.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Customizable Web Components UI Library",
+            "id": "1cc6012cb64f",
+            "description": "Shoelace A forward-thinking library of web components. Customizable Web Components UI Library Works with all frameworks Works with CDNs.Fully customizable with CSS\n\n#css #javascript",
+            "url": "https://morioh.com/p/1cc6012cb64f",
+            "link": "https://morioh.com/p/1cc6012cb64f",
+            "author": "Louie Perry",
+            "created": 1595485680000,
+            "category": [
+                "css",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/jVkf8VZ.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Build a Snake Game from Scratch in Python",
+            "id": "ff58b17e3608",
+            "description": "Michael and Qazi will show you how to build a Snake Video Game from scratch in Python. These Python skills are practically guaranteed to help you land a job if you actually understand all the concepts covered, and put this project and others like it on your portfolio.\n\n\n#python #developer #gamedevelopment",
+            "url": "https://morioh.com/p/ff58b17e3608",
+            "link": "https://morioh.com/p/ff58b17e3608",
+            "author": "Callum Slater",
+            "created": 1595483982000,
+            "category": [
+                "python",
+                "developer",
+                "game-development"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/RT5aoJspO6U/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Emoji picker created with vanilla javascript",
+            "id": "2406646c0d93",
+            "description": "Vanilla javascript emoji picker .Emoji picker created with vanilla javascript\n\n#javascript #programming",
+            "url": "https://morioh.com/p/2406646c0d93",
+            "link": "https://morioh.com/p/2406646c0d93",
+            "author": "Louie Sanders",
+            "created": 1595482080000,
+            "category": [
+                "javascript",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/PYM82X0.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to build a Password Generator using JavaScript",
+            "id": "935e4eabde92",
+            "description": "In this JavaScript video tutorial, you would learn how to generate random passwords with Javascript.\n\n#javascript",
+            "url": "https://morioh.com/p/935e4eabde92",
+            "link": "https://morioh.com/p/935e4eabde92",
+            "author": "Nandu Singh",
+            "created": 1595479931000,
+            "category": "javascript",
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/EUg3Qpu6iPE/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "FastAPI is a modern, fast, web framework for building APIs with Python 3.6",
+            "id": "78598efe32b5",
+            "description": "FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.\n\n#python",
+            "url": "https://morioh.com/p/78598efe32b5",
+            "link": "https://morioh.com/p/78598efe32b5",
+            "author": "Miniya Tewelde",
+            "created": 1595478480000,
+            "category": "python",
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/p0Nufjn.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Build a Discord Bot with Node.js",
+            "id": "6804de5d8097",
+            "description": "Discord is a chat application that allows millions of users across the globe to message and voice chat online in communities called guilds or servers. In this tutorial, you will build a Discord bot from scratch, using Node.js and the Discord.js librar\n\n#node.js #discord",
+            "url": "https://morioh.com/p/6804de5d8097",
+            "link": "https://morioh.com/p/6804de5d8097",
+            "author": "Ben Taylor",
+            "created": 1595476667000,
+            "category": [
+                "node.js",
+                "discord"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/b50be397.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Angular 10 Template Driven Forms with Validation",
+            "id": "b8171efdb3a0",
+            "description": "In Angular 10 template driven forms, the control elements are bound to data properties, with input validation to maintain data integrity.\n\n#angular #angular10",
+            "url": "https://morioh.com/p/b8171efdb3a0",
+            "link": "https://morioh.com/p/b8171efdb3a0",
+            "author": "Nico Jonsson",
+            "created": 1595476000000,
+            "category": [
+                "angular",
+                "angular 10"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/10eed60b.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Declarative shared-element transitions for Vue.js",
+            "id": "f4674ca113ee",
+            "description": "v-shared-element  Declarative shared-element transitions for Vue.jsDeclarative shared-element transitions between pages for Vue.js.\n\n#vuejs #vue #javascript #vuejs",
+            "url": "https://morioh.com/p/f4674ca113ee",
+            "link": "https://morioh.com/p/f4674ca113ee",
+            "author": "Vuejs Components",
+            "created": 1595474880000,
+            "category": [
+                "vuejs",
+                "vue",
+                "javascript",
+                "vue-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/FnYk2wO.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Uber Clone using Firebase in SwiftUI Ep 2 - Taxi App using Firebase in SwiftUI",
+            "id": "f12cea90710f",
+            "description": "In this Video i'm going to show how to Integrate Uber Clone App With Search For Places On Map For Booking.\nUber Clone Using Firebase In SwiftUI - Taxi App Using Firebase In SwiftUI - Firebase Tutorials For SwiftUI - Firebase Firestore Tutorials For SwiftUI - Distance Between Two Locations In SwiftUI.\n\n\n#firebase #swiftui #uber",
+            "url": "https://morioh.com/p/f12cea90710f",
+            "link": "https://morioh.com/p/f12cea90710f",
+            "author": "Hello Jay",
+            "created": 1595473250000,
+            "category": [
+                "firebase",
+                "swiftui",
+                "uber"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/ZiWLZqgcY6E/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Why you should Stop using Python’s print for the library?",
+            "id": "ffaab8c5a039",
+            "description": "A short guide to getting starting with Python’s logging module. In this Python tutorial, we'll discuss Why you should Stop using Python’s print for the library?\n\n#python #coding #development",
+            "url": "https://morioh.com/p/ffaab8c5a039",
+            "link": "https://morioh.com/p/ffaab8c5a039",
+            "author": "Hana Juali",
+            "created": 1595471371000,
+            "category": [
+                "python",
+                "coding",
+                "development"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://miro.medium.com/max/960/1*RCJUmuAhCel8dRzrIDnZ0Q.jpeg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Create Responsive Historic Timelines With Vueye Timeline",
+            "id": "160b5c75591b",
+            "description": "It's a cool and a responsive Vue.js component used to show item set in chronological display.\n\n#vuejs #javascript #vue #vuejs",
+            "url": "https://morioh.com/p/160b5c75591b",
+            "link": "https://morioh.com/p/160b5c75591b",
+            "author": "Jack Downson",
+            "created": 1595471280000,
+            "category": [
+                "vuejs",
+                "javascript",
+                "vue",
+                "vue-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/iueBBe6.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Top 30 Simple CSS3 and HTML Table Templates and Examples 2020",
+            "id": "d7a450185420",
+            "description": "A collection of the best CSS3 and HTML table templates for you to include in your websites regarding of their niche. In this post, you'll see Top 30 Simple CSS3 & HTML Table Templates and Examples 2020 \n\n#html #css #css3 #javascript",
+            "url": "https://morioh.com/p/d7a450185420",
+            "link": "https://morioh.com/p/d7a450185420",
+            "author": "Matteo Namoti",
+            "created": 1595470682000,
+            "category": [
+                "html",
+                "css",
+                "css3",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/c6766db9.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "7 Useful Tips HTML & CSS for Beginners",
+            "id": "afbfcaf2737d",
+            "description": "When learning a new skill, at first you might get intimidated. That intimidation can grow to become frustration which can then lead to a lack of motivation. You must stay motivated when learning something new, especially in demanding areas like web development. \n\n\n#html #css #htmltips #csstips",
+            "url": "https://morioh.com/p/afbfcaf2737d",
+            "link": "https://morioh.com/p/afbfcaf2737d",
+            "author": "CSS Programming",
+            "created": 1595469453000,
+            "category": [
+                "html",
+                "css",
+                "html-tips",
+                "css-tips"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/165d5518.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Build a Password Generator using JavaScript",
+            "id": "61abc6f5ab57",
+            "description": "In this video, you'll look at how to build a Password Generator using JavaScript\n\n#javascript #passwordgenerator",
+            "url": "https://morioh.com/p/61abc6f5ab57",
+            "link": "https://morioh.com/p/61abc6f5ab57",
+            "author": "Rose Lancy",
+            "created": 1595469215000,
+            "category": [
+                "javascript",
+                "password generator"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/EUg3Qpu6iPE/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Howw to Build and Deploy a Scalable GraphQL API with Nodejs",
+            "id": "8b8f838cc7e1",
+            "description": "A walkthrough for creating and deploying a GraphQL API with Node.js. In this post, you'll see Howw to Build and Deploy a Scalable GraphQL API \n\n#javascript #graphql #nodejs #graphqlapi #api",
+            "url": "https://morioh.com/p/8b8f838cc7e1",
+            "link": "https://morioh.com/p/8b8f838cc7e1",
+            "author": "Eleo Nona",
+            "created": 1595468287000,
+            "category": [
+                "javascript",
+                "graphql",
+                "nodejs",
+                "graphql api",
+                "api"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://miro.medium.com/max/1200/1*kPcs6xowdQJeAf7T7iiUJg.png",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "5 reasons why Deno will stop using TypeScript",
+            "id": "e3c0fa2db149",
+            "description": "Deno will stop using TypeScript after several issues like slow compilation time. A document surfaced today pointing that Deno will stop using TypeScript in its internal code, citing several problems with the current environment. Issues mentioned involve TypeScript compiling times, structuring and code organization, among others. Moving forward, Deno will use pure JavaScript for its internal code. 5 reasons why Deno will stop using TypeScript\n\n#javascript #deno #typescript",
+            "url": "https://morioh.com/p/e3c0fa2db149",
+            "link": "https://morioh.com/p/e3c0fa2db149",
+            "author": "Nick  FrankCold",
+            "created": 1595467740000,
+            "category": [
+                "javascript",
+                "deno",
+                "typescript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i2.wp.com/startfunction.com/wp-content/uploads/2020/06/deno-will-stop-using-typescript.png",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "A JavaScript plugin to help preserve an element's scroll position",
+            "id": "d7b883d79a74",
+            "description": "scroll-stash .A JavaScript plugin to help preserve an element's scroll position.\n\n#javascript #programming",
+            "url": "https://morioh.com/p/d7b883d79a74",
+            "link": "https://morioh.com/p/d7b883d79a74",
+            "author": "Joshua Carter",
+            "created": 1595467680000,
+            "category": [
+                "javascript",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/9aGKqOp.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Top 7 ReactJS Tools You Should Use for Optimizing Performance",
+            "id": "3b5d3317b3f7",
+            "description": "If you are a software developer, the tools that you use daily actually surpass the original languages you write code in. When you dedicate a significant amount of time in programming, you must have discovered and used some of the most amazing tools which have significantly improved your productivity and efficiency in developing applications with ReactJS. In this Reactjs tutorial, you'll see Top 7 ReactJS Tools You Should Use for Optimizing Performance\n\n#reactnative #react.js",
+            "url": "https://morioh.com/p/3b5d3317b3f7",
+            "link": "https://morioh.com/p/3b5d3317b3f7",
+            "author": "Caval  Canti",
+            "created": 1595467331000,
+            "category": [
+                "react native",
+                "react.js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://www.hiddenbrains.com/blog/wp-content/uploads/2020/04/Top-ReactJS-Tools.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Build a simple Twitter-like Feed using ReactJS",
+            "id": "958aa3f62dce",
+            "description": "I will explain how you can build a simple Twitter-like feed using ReactJS. In order to understand this process well, you just need to have basic working knowledge of JavaScript, JSX and ReactJS. How to Build a simple Twitter-like Feed using ReactJS\n\n#react #reactjs #javascript #twitter",
+            "url": "https://morioh.com/p/958aa3f62dce",
+            "link": "https://morioh.com/p/958aa3f62dce",
+            "author": "Devil  Moya",
+            "created": 1595466720000,
+            "category": [
+                "react",
+                "reactjs",
+                "javascript",
+                "twitter"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/87dc28f1.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Build an Interactive 2FA Screen using Flutter",
+            "id": "64bcc4ed15c0",
+            "description": "An interactive 2FA screen is table stakes with the SignUp/SignIn flow these days especially if you’re building an app that requires high levels of security. In this post, you'll see How to Build an Interactive 2FA Screen using Flutter\n\n#flutter #2fa #ios #mobileapp-development",
+            "url": "https://morioh.com/p/64bcc4ed15c0",
+            "link": "https://morioh.com/p/64bcc4ed15c0",
+            "author": "Peter Andrews",
+            "created": 1595466017000,
+            "category": [
+                "flutter",
+                "2fa",
+                "ios",
+                "mobile-app-development"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200723/501598a1.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Simple client-side translation with pure JavaScript",
+            "id": "23766622f839",
+            "description": "This script provides a quick and easy way to translate content on your website with only a few lines of JavaScript code.\n\n#javascript #programming",
+            "url": "https://morioh.com/p/23766622f839",
+            "link": "https://morioh.com/p/23766622f839",
+            "author": "JavaScript Dev",
+            "created": 1595464080000,
+            "category": [
+                "javascript",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/867wnrP.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Chrome DevTools Like Color Picker Component",
+            "id": "16c562041e2d",
+            "description": "Colr Pickr, a vanilla JavaScript color picker component built with SVGs, with features like saving colors. Similar design to the chrome-dev-tools color picker.\n\n#javascript #colorpicker",
+            "url": "https://morioh.com/p/16c562041e2d",
+            "link": "https://morioh.com/p/16c562041e2d",
+            "author": "Ethan Hughes",
+            "created": 1595460480000,
+            "category": [
+                "javascript",
+                "color picker"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/PkOPV7S.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "A CSS framework based on Human Guidelines from apple",
+            "id": "c754fba20d47",
+            "description": "Hi! Welcome to Puppertino! Puppertino is a framework meant to mimic the look of macOS and follow the human guidelines. Puppertino is a Framework created to be lightweight, modular, and cool looking!\n\n#javascript #css",
+            "url": "https://morioh.com/p/c754fba20d47",
+            "link": "https://morioh.com/p/c754fba20d47",
+            "author": "Peter Andrews",
+            "created": 1595456880000,
+            "category": [
+                "javascript",
+                "css"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/YHibRyA.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "A Javascript library for convert text to SVG stroke animations in the browser",
+            "id": "778e08452201",
+            "description": "A Javascript library for convert text to SVG stroke animations in the browser .Svg-text-animate A tool that converts input text into stroke animation in the browser environment\n\n#javascript #programming",
+            "url": "https://morioh.com/p/778e08452201",
+            "link": "https://morioh.com/p/778e08452201",
+            "author": "Louie Perry",
+            "created": 1595453280000,
+            "category": [
+                "javascript",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/ep41AOy.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Check for Available Permissions in Deno",
+            "id": "87a127c57525",
+            "description": "Coming right behind native support for TypeScript, probably the second-most liked new feature from Deno is the added security layer. As you probably already know, you need to specify which permissions you need to provide your code in order to execute it, otherwise, it’ll fail. In this post, you'll see Checking for Available Permissions in Deno\n\n#javascript #typescript #backenddevelopment #deno",
+            "url": "https://morioh.com/p/87a127c57525",
+            "link": "https://morioh.com/p/87a127c57525",
+            "author": "Nick  FrankCold",
+            "created": 1595450580000,
+            "category": [
+                "javascript",
+                "typescript",
+                "backend-development",
+                "deno"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200721/e6ea37d1.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Extensible bare bones carousels for the web, written in TypeScript",
+            "id": "804430dc6e07",
+            "description": "embla-carousel is a bare bones carousel library with great fluid motion and awesome touch/swipe precision. It's library agnostic, dependency free and 100% open source. Build awesome carousels by extending them with your own CSS and JavaScript. It works in all modern browsers including IE 11.\n\n#javascript #css #typescript",
+            "url": "https://morioh.com/p/804430dc6e07",
+            "link": "https://morioh.com/p/804430dc6e07",
+            "author": "Joel Hawkins",
+            "created": 1595449680000,
+            "category": [
+                "javascript",
+                "css",
+                "typescript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/evNNKbe.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Full-featured Slider/Carousel Plugin – Splide",
+            "id": "4efb98671664",
+            "description": "Splide is a lightweight, powerful and flexible slider and carousel, written in pure JavaScript without any dependencies.\n\n#javascript",
+            "url": "https://morioh.com/p/4efb98671664",
+            "link": "https://morioh.com/p/4efb98671664",
+            "author": "Louie Sanders",
+            "created": 1595446080000,
+            "category": "javascript",
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/pyaFTkZ.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "11 Best VSCode Extensions For Programmers",
+            "id": "fc753c398d85",
+            "description": "One of the most impressive parts of Visual Studio Code is customizability, especially via extensions. A set of reliable vscode extensions play a major role in your programming efficiency. For all of us, visual code extensions can be considered as invaluable to speed up your work without reducing the quality of your output.\n\n#whiteboardprogramming #vscode #visualstudiocode #vscodeextensions",
+            "url": "https://morioh.com/p/fc753c398d85",
+            "link": "https://morioh.com/p/fc753c398d85",
+            "author": "Marielle  Rippin",
+            "created": 1595443440000,
+            "category": [
+                "whiteboardprogramming",
+                "vscode",
+                "visualstudiocode",
+                "vscodeextensions"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/CIjtiot16CY/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Customizable and responsive react sidebar library with dropdown menus",
+            "id": "f3fa81304f99",
+            "description": "Customizable and responsive react sidebar library with dropdown menus and unlimited number of nested submenus\n\n#react #javascript #reactjs",
+            "url": "https://morioh.com/p/f3fa81304f99",
+            "link": "https://morioh.com/p/f3fa81304f99",
+            "author": "Avav Smith",
+            "created": 1595442480000,
+            "category": [
+                "react",
+                "javascript",
+                "reactjs"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/RsXDNHB.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "A customised Flutter TextFormField to input international phone number",
+            "id": "0cb186ec558b",
+            "description": "A customised Flutter TextFormField to input international phone number along with country code.This widget can be used to make customised text field to take phone number input for any country along with an option to choose country code from a dropdown.\n\n#flutter #dart #mobileapps",
+            "url": "https://morioh.com/p/0cb186ec558b",
+            "link": "https://morioh.com/p/0cb186ec558b",
+            "author": "Isaias Awate",
+            "created": 1595438880000,
+            "category": [
+                "flutter",
+                "dart",
+                "mobile-apps"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/gUYjsOD.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Segmented Text Input Component For React Native",
+            "id": "bf7ad7690d51",
+            "description": "Segmented Text Input Component For React Native .A wickedly customizable <TextInput /> for React Native. Useful for tags, spellchecking, whatever.\n\n#reactnative #react #mobileapps",
+            "url": "https://morioh.com/p/bf7ad7690d51",
+            "link": "https://morioh.com/p/bf7ad7690d51",
+            "author": "Fethawi Nasih",
+            "created": 1595435280000,
+            "category": [
+                "react-native",
+                "react",
+                "mobile-apps"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/HMPxcuc.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Run Tensorflow.js on a serverless platform",
+            "id": "893624128cc1",
+            "description": "Today, we present how to convert models developed with Python TensorFlow for use with TensorFlow.js, and discuss web-based versus server-based deployment. How to Run Tensorflow.js on a serverless platform\n\n#tensorflow.js #javascript #artificialintelligence",
+            "url": "https://morioh.com/p/893624128cc1",
+            "link": "https://morioh.com/p/893624128cc1",
+            "author": "Peter Andrews",
+            "created": 1595433600000,
+            "category": [
+                "tensorflow.js",
+                "javascript",
+                "artificial intelligence"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/34095ab4.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Slider for Creating One Page Website",
+            "id": "8a78426f588a",
+            "description": "A mobile-friendly fullscreen page slider JavaScript plugin that applies horizontal and vertical one-page scrolling effects to sectioned pages within the document.\n\n#javascript #programming",
+            "url": "https://morioh.com/p/8a78426f588a",
+            "link": "https://morioh.com/p/8a78426f588a",
+            "author": "JavaScript Dev",
+            "created": 1595431680000,
+            "category": [
+                "javascript",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/54NoUUW.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Carousel library with vanilla Javascript",
+            "id": "6866c6e95d3e",
+            "description": "krousel is a flexible, customizable, responsive, touch-friendly carousel library inspired by the Slick.js jQuery plugin. Written in pure JavaScript. With no dependency.\n\n#javascript #programming #jquery",
+            "url": "https://morioh.com/p/6866c6e95d3e",
+            "link": "https://morioh.com/p/6866c6e95d3e",
+            "author": "Ethan Hughes",
+            "created": 1595428080000,
+            "category": [
+                "javascript",
+                "programming",
+                "jquery"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/InaV7Lz.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Swipeable Horizontal Slider In JavaScript",
+            "id": "4c885961b59f",
+            "description": "Butter Slider .A smooth, simple, lightweight, vanilla JS, no dependencies drag and hold slider, made for easy setup.\n\n#javascript #programming",
+            "url": "https://morioh.com/p/4c885961b59f",
+            "link": "https://morioh.com/p/4c885961b59f",
+            "author": "Peter Andrews",
+            "created": 1595424480000,
+            "category": [
+                "javascript",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/YQ790Xg.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Writing & Publishing your First NPM Package!",
+            "id": "bf0d7e48c281",
+            "description": "Today, we're going to go beyond a boring 'hello world' example and into something that's a bit more useful. After creating 'shadowizard' (a simple npm package for adding shadows to certain elements), I'm going to show you how to publish it to GitHub as well as NPM, for others to use.\n\n\n#npm #npmpackage #programming",
+            "url": "https://morioh.com/p/bf0d7e48c281",
+            "link": "https://morioh.com/p/bf0d7e48c281",
+            "author": "Jerel  Mann",
+            "created": 1595421780000,
+            "category": [
+                "npm",
+                "npm package",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/4zzbNac6f6Q/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Undo/Redo And History In Text Field",
+            "id": "aaf4973e7212",
+            "description": "A powerful and simple Javascript library provides a history for undo/redo functionality. Just like a time machine! A powerful and simple Javascript library provides a history for undo/redo functionality. Just like a time machine!\n\n#javascript #programming",
+            "url": "https://morioh.com/p/aaf4973e7212",
+            "link": "https://morioh.com/p/aaf4973e7212",
+            "author": "Peter Andrews",
+            "created": 1595421060000,
+            "category": [
+                "javascript",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/PaQ3NGA.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Mobile-first Slider/Scroller In JavaScript",
+            "id": "f37988c1a2cf",
+            "description": "Add JS pagination, arrows, and events to a pure CSS swiper Supports IE11+ with progressive enhancement - that is IE11 only snaps to items when scrolling via Touch Supports IE11+ with CustomEvent polyfill (in example2.html)\n\n#javascript #css #programming",
+            "url": "https://morioh.com/p/f37988c1a2cf",
+            "link": "https://morioh.com/p/f37988c1a2cf",
+            "author": "Louie Perry",
+            "created": 1595420880000,
+            "category": [
+                "javascript",
+                "css",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/mBSYYL9.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "LabelImg is a graphical image annotation tool and label object bounding boxes in images",
+            "id": "adff27290f5e",
+            "description": "LabelImg is a graphical image annotation tool.It is written in Python and uses Qt for its graphical interface. Annotations are saved as XML files in PASCAL VOC format, the format used by [ImageNet](http://www.image-net.org/). Besides, it also supports YOLO format\n\n#python #programming",
+            "url": "https://morioh.com/p/adff27290f5e",
+            "link": "https://morioh.com/p/adff27290f5e",
+            "author": "Anna Yusef",
+            "created": 1595417460000,
+            "category": [
+                "python",
+                "programming"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/ZGeTuhc.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "One Page Scroll Effect In Vanilla JavaScript",
+            "id": "ff3eb9d34403",
+            "description": "docSlider.js is a JavaScript plugin that works without jQuery. Change the web sections to a one-page scroll.\n\n#javascript #jquery",
+            "url": "https://morioh.com/p/ff3eb9d34403",
+            "link": "https://morioh.com/p/ff3eb9d34403",
+            "author": "JavaScript Dev",
+            "created": 1595417280000,
+            "category": [
+                "javascript",
+                "jquery"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/HXT4lcw.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "One easy-to-use component for Vue.js to build beautiful responsive timelines",
+            "id": "9322d454cac2",
+            "description": "A simple Vue.js component to generate a responsive, vertical, configurable, animated timeline on the web application.\n\n#vuejs #javascript #vue #vuejs",
+            "url": "https://morioh.com/p/9322d454cac2",
+            "link": "https://morioh.com/p/9322d454cac2",
+            "author": "James Ellis",
+            "created": 1595413860000,
+            "category": [
+                "vuejs",
+                "javascript",
+                "vue",
+                "vue-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/LRFdVE1.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Lightweight carousel with vanillajs",
+            "id": "ca01fc263730",
+            "description": "VanillaSlider .VanillaSlider is a simple, lightweight, responsive slider using vanilla JavaScript, requiring no third-party libraries.\n\n#programming #javascript",
+            "url": "https://morioh.com/p/ca01fc263730",
+            "link": "https://morioh.com/p/ca01fc263730",
+            "author": "Ethan Hughes",
+            "created": 1595413680000,
+            "category": [
+                "programming",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/XVFMUjc.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Fluid and smooth rolling animation for Vue.js",
+            "id": "a060033d9fb8",
+            "description": "vue-roller .Fluid and smooth rolling animation for Vue.js\n\n#vuejs #javascript #vue #vuejs",
+            "url": "https://morioh.com/p/a060033d9fb8",
+            "link": "https://morioh.com/p/a060033d9fb8",
+            "author": "Amina Semhar",
+            "created": 1595410260000,
+            "category": [
+                "vuejs",
+                "javascript",
+                "vue",
+                "vue-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/UMXzOnO.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "React Native with async, await, try, catch, fetch for displaying news",
+            "id": "3cd71c0191dc",
+            "description": "Let's build a news 📰 app 📱 using React Native & Expo. Our app will help users find information about current world 🌎 events. We'll do so by requesting data from a 3rd party API and then consuming this data in our app.\n\n#reactnative #react #mobileapps",
+            "url": "https://morioh.com/p/3cd71c0191dc",
+            "link": "https://morioh.com/p/3cd71c0191dc",
+            "author": "Makda Amanuel",
+            "created": 1595410080000,
+            "category": [
+                "react-native",
+                "react",
+                "mobile-apps"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/KWdIDBN.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Functions in Variable | User Role in JavaScript",
+            "id": "b4561e9537e3",
+            "description": "Functions in Variable | User Role in JavaScript. This is a new JavaScript course designed, created and recorded fresh in 2020. This course will give you a fantastic start for your JavaScript journey. After this course you can move to Reactjs, AngularJS, nodeJS and many other such JS libraries and framework.\n\n#javascript #developer",
+            "url": "https://morioh.com/p/b4561e9537e3",
+            "link": "https://morioh.com/p/b4561e9537e3",
+            "author": "Rodney Vg",
+            "created": 1595409334000,
+            "category": [
+                "javascript",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/hEX8ohGSOyc/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Introduction to C++ | How To Get Started WIth C++ In One Hour",
+            "id": "7d37afa00ed3",
+            "description": "Introduction to C++ | How To Get Started WIth C++ will help you to cover all the basic concepts of C++ Programming. This session will start off with topics such as data types, variables, and operators. Then, it will be followed up with decision making statements and looping statements. Finally, there'll be object-oriented programming using C++\n\n#cplusplus #developer",
+            "url": "https://morioh.com/p/7d37afa00ed3",
+            "link": "https://morioh.com/p/7d37afa00ed3",
+            "author": "Anil  Sakhiya",
+            "created": 1595409145000,
+            "category": [
+                "cplusplus",
+                "developer"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/kQ5hYy-UdI4/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Awesome SVG icon component for Vue.js",
+            "id": "a192afd68007",
+            "description": "Awesome SVG icon component for Vue.js, with built-in Font Awesome icons.\n\n#vuejs #vue #vuejs #javascript",
+            "url": "https://morioh.com/p/a192afd68007",
+            "link": "https://morioh.com/p/a192afd68007",
+            "author": "Asmait Ermias",
+            "created": 1595406660000,
+            "category": [
+                "vuejs",
+                "vue",
+                "vue-js",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/mx8QMpL.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Official Scrypta dApp Starter with VueJS",
+            "id": "d8057c140444",
+            "description": "This is a simple dApp Starter written in VueJS that creates for you a simple PWA enabled with the Scrypta Blockchain.You'll be able to manage wallets, receive Lyra, write and read data thanks to @scrypta/core npm package.\n\n#vuejs #vue #javascript #vuejs",
+            "url": "https://morioh.com/p/d8057c140444",
+            "link": "https://morioh.com/p/d8057c140444",
+            "author": "Rodney Vg",
+            "created": 1595406480000,
+            "category": [
+                "vuejs",
+                "vue",
+                "javascript",
+                "vue-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/e11YHYC.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "JavaScript Native Methods You May Not Know!",
+            "id": "0075d6ad4c9e",
+            "description": "Powerful but often overlooked native methods in JavaScript\n\n#javascript #react #nodejs #angular #es6",
+            "url": "https://morioh.com/p/0075d6ad4c9e",
+            "link": "https://morioh.com/p/0075d6ad4c9e",
+            "author": "Condo Mark",
+            "created": 1595406205000,
+            "category": [
+                "javascript",
+                "react",
+                "nodejs",
+                "angular",
+                "es6"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/e595b300.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Top 10 Tools For React Development in 2020",
+            "id": "6555e31da51a",
+            "description": "In this React tutorial, You should have an Idea about the React Development tools that Helps you in the React Development Project (Top 10 Tools For React Development in 2020)\n\n#development #react #javascript",
+            "url": "https://morioh.com/p/6555e31da51a",
+            "link": "https://morioh.com/p/6555e31da51a",
+            "author": "Rodney Vg",
+            "created": 1595405360000,
+            "category": [
+                "development",
+                "react",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://miro.medium.com/max/1200/1*Q9499iid5-HQ9USjwoheeg.png",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Make FLAPPY BIRD in JavaScript, HTML and CSS (No Canvas!)",
+            "id": "d8de1867b29c",
+            "description": "This is a really exciting video. Not only are we going to learn how to make Flappy Bird in pure JavaScript, HTML and CSS (No canvas required)\n\n#javascript #html #css #gamedevelopment",
+            "url": "https://morioh.com/p/d8de1867b29c",
+            "link": "https://morioh.com/p/d8de1867b29c",
+            "author": "Hugo JS",
+            "created": 1595404814000,
+            "category": [
+                "javascript",
+                "html",
+                "css",
+                "game-development"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/gxHcW84izz0/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "A Quick Overview about List, Set, Dictionary Comprehensions in Python",
+            "id": "ef97069927bc",
+            "description": "In this Python tutorial, you'll learn about list, dictionary, set comprehensions in Python\n\n#python #python3",
+            "url": "https://morioh.com/p/ef97069927bc",
+            "link": "https://morioh.com/p/ef97069927bc",
+            "author": "Ricky Martin",
+            "created": 1595404264000,
+            "category": [
+                "python",
+                "python3"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/22c9fa6c.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "How to Use Functional Keras API for Deep Learning",
+            "id": "764218f77ac3",
+            "description": "In this article I will explain how to use the functional API in Keras to define deep learning models. How to Use Functional Keras API for Deep Learning\n\n#functionalapi #sequentialapi #deeplearning #tensorflow #keras",
+            "url": "https://morioh.com/p/764218f77ac3",
+            "link": "https://morioh.com/p/764218f77ac3",
+            "author": "Peter Andrews",
+            "created": 1595403810000,
+            "category": [
+                "functional-api",
+                "sequential-api",
+                "deep-learning",
+                "tensorflow",
+                "keras"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/b73a55dc.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Master the Concurrency in Python",
+            "id": "4c24ccfe1eee",
+            "description": "TL;DR: Use subprocess to run concurrent external program, but use multiprocessing to divide task we write into Python over multiple processes. Follow along for details and real-world examples. Master the Concurrency in Python\n\n#datascience #concurrency #dataengineering #python",
+            "url": "https://morioh.com/p/4c24ccfe1eee",
+            "link": "https://morioh.com/p/4c24ccfe1eee",
+            "author": "Halem  Rostt",
+            "created": 1595403421000,
+            "category": [
+                "data-science",
+                "concurrency",
+                "data-engineering",
+                "python"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/bce68513.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Vue Multi-Select Dual Listbox",
+            "id": "f3e6cea1f5c6",
+            "description": "A customizable and searchable dual list box component to enhance multi-select experience on the app.\n\n#vuejs #javascript #vue #vuejs",
+            "url": "https://morioh.com/p/f3e6cea1f5c6",
+            "link": "https://morioh.com/p/f3e6cea1f5c6",
+            "author": "Liya Gebre",
+            "created": 1595403060000,
+            "category": [
+                "vuejs",
+                "javascript",
+                "vue",
+                "vue-js"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/4dsSG3o.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Face Recognition with Python and OpenCV",
+            "id": "28b90b0a1e0a",
+            "description": "What is face recognition? Or what is recognition? When you look at an apple fruit, your mind immediately tells you that this is an apple fruit. This process, your mind telling you that this is an apple fruit is recognition in simple words. So what is face recognition then? I am sure you have guessed it right. When you look at your friend walking down the street or a picture of him, you recognize that he is your friend Paulo. Interestingly when you look at your friend or a picture of him you look at his face first before looking at anything else. Ever wondered why you do that? This is so that you can recognize him by looking at his face. Well, this is you doing face recognition. Face Recognition With OpenCV and Python\n\n#facerecognition #facedetection #opencv #opencvpython #python",
+            "url": "https://morioh.com/p/28b90b0a1e0a",
+            "link": "https://morioh.com/p/28b90b0a1e0a",
+            "author": "Kim Hans  Jin",
+            "created": 1595403019000,
+            "category": [
+                "face-recognition",
+                "facedetection",
+                "opencv",
+                "opencv-python",
+                "python"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/1f4662b2.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Free and open source streaming software built on OBS and Electron",
+            "id": "a1ca8a660643",
+            "description": "streamlabs-obs Simple, powerful, and efficient live streaming software built on Electron and OBS.\n\n#electron #nodejs #javascript",
+            "url": "https://morioh.com/p/a1ca8a660643",
+            "link": "https://morioh.com/p/a1ca8a660643",
+            "author": "Idris Brhane",
+            "created": 1595402921000,
+            "category": [
+                "electron",
+                "nodejs",
+                "javascript"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/8czV3td.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Deno vs NodeJS",
+            "id": "a346e940d9cb",
+            "description": "En esta transmisión en vivo debatiremos con la comunidad de Null*Pointers  sobre Deno vs NodeJS. \n\n#deno #nodejs",
+            "url": "https://morioh.com/p/a346e940d9cb",
+            "link": "https://morioh.com/p/a346e940d9cb",
+            "author": "Nick  FrankCold",
+            "created": 1595401641000,
+            "category": [
+                "deno",
+                "nodejs"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.ytimg.com/vi/xL7_yNS-BXM/maxresdefault.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "Getting started with Google Kubernetes Engine (GKE)",
+            "id": "b1c814ed4a41",
+            "description": "The Rafay platform works seamlessly with Google Kubernetes Engine (GKE) to deliver SaaS-based multi-cluster management and application operations at scale. This guide is designed to help you to get started with Google Kubernetes Engine(GKE). We will be using the Google cloud shell to setup the GKE cluster and host a multi-container application. \n\n#containers #kubernetes #gke",
+            "url": "https://morioh.com/p/b1c814ed4a41",
+            "link": "https://morioh.com/p/b1c814ed4a41",
+            "author": "Panmure  Anho",
+            "created": 1595401366000,
+            "category": [
+                "containers",
+                "kubernetes",
+                "gke"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/e4e7b343.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "CI/CD with Flutter, Codemagic and AWS S3",
+            "id": "9ef2a5494ea7",
+            "description": "Guide to create a seamless CI/CD pipeline thats deploys Flutter Web applications to an AWS S3 data store for hosting static web content. In this post, I will outline the steps I took to create a seamless CI/CD pipeline thats deploys Flutter Web applications to an AWS S3 data store for hosting static web content using CodeMagic as a deployment tool.\n\n#flutter #awss3",
+            "url": "https://morioh.com/p/9ef2a5494ea7",
+            "link": "https://morioh.com/p/9ef2a5494ea7",
+            "author": "Peter Andrews",
+            "created": 1595400345000,
+            "category": [
+                "flutter",
+                "aws s3"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://blog.codemagic.io/uploads/codemagic-io-blog-flutter-recipes-listview-recipes.png",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "A Simple CRUD App using GraphQL, NodeJS and MongoDB",
+            "id": "2d0af1d71598",
+            "description": "In my last article, I gave a global introduction to GraphQL. I compared it with REST, as the two of them tend to do the same work, but there are some differences in term of quality and performance. So in this article, we’re going to build a simple movie app, where we can show, add, edit, and delete movies. That way we’ll get through the basics of GraphQL, which is the main goal of this article — as I assume everyone reading this has already worked with NodeJS and MongoDB. A Simple CRUD App Using GraphQL, NodeJS and MongoDB\n\n#nodejs #graphql #mongodb #api",
+            "url": "https://morioh.com/p/2d0af1d71598",
+            "link": "https://morioh.com/p/2d0af1d71598",
+            "author": "Federico  Laresi",
+            "created": 1595399969000,
+            "category": [
+                "nodejs",
+                "graphql",
+                "mongodb",
+                "api"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/766ec572.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "CI/CD Pipeline for a NodeJS Application with Jenkins",
+            "id": "ebc2c2a73126",
+            "description": "In this article, we are talking about how to Build Node.js and React application on Jenkins with Freestyle Project. CI/CD Pipeline for a NodeJS Application with Jenkins\n\n#javascript #automationtesting #jenkins #nodejs #cicd-pipeline",
+            "url": "https://morioh.com/p/ebc2c2a73126",
+            "link": "https://morioh.com/p/ebc2c2a73126",
+            "author": "Nick  Anon",
+            "created": 1595399688000,
+            "category": [
+                "javascript",
+                "automation-testing",
+                "jenkins",
+                "nodejs",
+                "ci-cd-pipeline"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.morioh.com/200722/2a7246ab.webp",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "React wrapper for goong-geocoder for use with goong-map-react",
+            "id": "8e59174c692c",
+            "description": "@goongmaps/goong-geocoder-reat React wrapper for `@goongmaps/goong-geocoder` for use with `@goongmaps/goong-map-react`\n\n#reactjs #javascript #react",
+            "url": "https://morioh.com/p/8e59174c692c",
+            "link": "https://morioh.com/p/8e59174c692c",
+            "author": "Louie Perry",
+            "created": 1595399460000,
+            "category": [
+                "reactjs",
+                "javascript",
+                "react"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/8rDTKQf.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "ASP.NET Core Updates in .NET 5 Preview 7",
+            "id": "0492f3fdd7f1",
+            "description": ".NET 5 Preview 7 is now available and is ready for evaluation. Here’s what’s new in this release: Blazor WebAssembly apps now target .NET 5 Updated debugging requirements for Blazor WebAssembly Blazor accessibility improvements Blazor performance improvements Certificate authentication performance improvements Sending HTTP/2 PING frames Support for additional endpoints types in the Kestrel sockets transport Custom header decoding in Kestrel Other minor improvements Get started To get started with ASP.NET Core in .NET 5 Preview 7 install the .NET 5 SDK.\n\n#aspnetcore #blazor #asp.net",
+            "url": "https://morioh.com/p/0492f3fdd7f1",
+            "link": "https://morioh.com/p/0492f3fdd7f1",
+            "author": "Hana Juali",
+            "created": 1595399437000,
+            "category": [
+                "aspnetcore",
+                "blazor",
+                "asp.net"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2018/07/hero-vs-community-sku.png",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        },
+        {
+            "title": "A React Img Component let you handle image UX and performance as a Pro",
+            "id": "5675fb37eff5",
+            "description": "React Cool Img .This is a lightweight React `<Img />` component, which helps you handle image UX (user experience) and performance optimization as a professional guy\n\n#reactjs #javascript #react",
+            "url": "https://morioh.com/p/5675fb37eff5",
+            "link": "https://morioh.com/p/5675fb37eff5",
+            "author": "JavaScript Dev",
+            "created": 1595395860000,
+            "category": [
+                "reactjs",
+                "javascript",
+                "react"
+            ],
+            "content": null,
+            "enclosures": [
+                {
+                    "url": "https://i.imgur.com/3VVM7Ns.jpg",
+                    "length": "0",
+                    "type": "image/jpeg"
+                }
+            ]
+        }
+    ],
+    "title": "Social Network for Developers",
+    "description": "Morioh is the place to create a Great Personal Brand, connect with Developers around the World and Grow your Career!",
+    "link": "https://morioh.com",
+    "category": [
+        "nodejs",
+        "angular",
+        "javascript",
+        "react",
+        "python",
+        "mongodb",
+        "nosql",
+        "bigdata",
+        "marchine learning",
+        "flutter",
+        "swift",
+        "react native",
+        "asp.net",
+        "typescript",
+        "vue.js",
+        "GraphQL",
+        "bootstrap",
+        "css3",
+        "Django",
+        "Laravel",
+        "TensorFlow"
+    ],
+    "image": "https://i.imgur.com/CbCXhBe.png"
+}

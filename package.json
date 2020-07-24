@@ -1,0 +1,28 @@
+{
+  "name": "rss2json",
+  "version": "1.0.0",
+  "description": "Translate RSS feeds to JSONFeed",
+  "main": "api.js",
+  "scripts": {
+    "start": "claudia create --name rss2json --region us-west-1 --api-module app",
+    "deploy": "claudia update",
+    "test": "node spec/support/jasmine-runner.js",
+    "logs": "aws logs filter-log-events --log-group-name=/aws/lambda/rss-to-json --region=us-west-1 --output=text",
+    "debug": "node debug specs/support/jasmine-runner.js"
+  },
+  "author": "Seth Hawthorne",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.718.0",
+    "claudia-api-builder": "^4.1.2",
+    "rss-to-json": "^1.1.1"
+  },
+  "devDependencies": {
+    "claudia": "^2.14.2",
+    "dotenv": "^4.0.0",
+    "eslint": "^4.13.0",
+    "eslint-config-defaults": "^9.0.0",
+    "jasmine": "^2.99.0",
+    "jasmine-spec-reporter": "^4.2.1"
+  }
+}

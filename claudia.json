@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "rss2json-executor",
+    "name": "rss2json",
+    "region": "us-west-1"
+  },
+  "api": {
+    "id": "34jrjai1lc",
+    "module": "app"
+  }
+}
